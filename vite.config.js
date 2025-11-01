@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/skypath_web_vue/'
+  base: '/SkyPath-Web/',
   plugins: [
     vue(),
     vueDevTools(),
